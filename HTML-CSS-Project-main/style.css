@@ -1,0 +1,15 @@
+body{
+    background-image: url('/background-image.png');
+}
+
+.lift {
+  padding-right: 700px;
+  vertical-align: top;
+  float: right;
+}
+.middle-part{
+
+    border-style: solid;
+     margin-right: 700px;
+     font-family: 'Roboto', sans-serif;
+}
